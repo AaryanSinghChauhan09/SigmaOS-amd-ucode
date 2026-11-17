@@ -3,7 +3,7 @@ name = "SigmaOS-amd-ucode"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "amd-ucode component"
+description = "SigmaOS SigmaOS-amd-ucode component"
 upstream = []
 
 [contract]
